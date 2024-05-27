@@ -1,0 +1,5 @@
+Elena Ballesteros
+Samuel Espejo
+
+ejercicio 1.2
+soportado_por(b1, Abajo), bloque(Abajo, color, Color).
